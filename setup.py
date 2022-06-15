@@ -12,7 +12,7 @@ setup(
 	version=version,
 	description='Red Theme for Frappe v13b',
 	author='Hashir',
-	author_email='hashirabdulla@gmail.com',
+	author_email='has@gmail.com',
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,
